@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Setup .env file
+```env
+REACT_APP_API_URL = 'https://api.openweathermap.org/data/2.5'
+REACT_APP_API_KEY = Paste your API key here.
+REACT_APP_ICON_URL = 'https://openweathermap.org/img/w'
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
